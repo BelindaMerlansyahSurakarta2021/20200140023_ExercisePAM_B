@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Todo Apps</string>
+    <string name="tema">Welcome in Todo App</string>
+    <string name="Slide">Nama</string>
+    <string name="Slide1">Masukkan Nama</string>
+    <string name="Slide2">password</string>
+    <string name="Slide3">Masukkan Password</string>
+    <string name="Slide4">Sing in</string>
+    <string name="Slide5">New to do Apps</string>
+    <string name="Slide6">Register</string>
+    <string name="Slide7">Email</string>
+    <string name="Slide8">Masukkan Email</string>
+    <string name="Slide10">Re-Password</string>
+    <string name="Slide11">task</string>
+    <string name="Slide12">Masukkan Task</string>
+    <string name="Slide13">Jenis Task</string>
+    <string name="Slide14">Masukkan Jenis Task</string>
+    <string name="Slide15">Time Task</string>
+    <string name="Slide16">Masukkan Lama task</string>
+    <string name="Slide17">Selamat Datang</string>
+    <string name="mit">Submit</string>
+    <string name="ot">Logout</string>
+    <string name="task">Task</string>
+    <string name="jns">Jenis Task</string>
+    <string name="wkt">Waktu Task</string>
+
+</resources>
